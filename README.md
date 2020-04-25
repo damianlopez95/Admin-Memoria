@@ -1,6 +1,6 @@
-# Admin-memoria
+# Admin-Memoria
 
-Administrador de memoria con particiones dinámicas: Proyecto integrador final para la materia "Sistemas Operativos". UNTDF. 3er Año. 2019.
+Administrador de Memoria con Particiones Dinámicas: Proyecto integrador final para la materia "Sistemas Operativos". UNTDF. 3er Año. 2019.
 
 Desarrollo de aplicación de escritorio en el lenguaje Java.
 
